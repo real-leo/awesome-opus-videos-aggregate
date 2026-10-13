@@ -1,8 +1,8 @@
 # Opus 5.5 Videos Hub
 
-[中文说明](#中文--chinese) · [Sources](sources.md) · [By category](by-category.md) · [Prompts index](prompts.md) · [Data](data/aggregated.json)
+[Sources](sources.md) · [By category](by-category.md) · [Prompts index](prompts.md) · [Data](data/aggregated.json)
 
-**A bilingual discovery hub** that aggregates and deduplicates four community lists of videos people made with [Claude Opus 5.5](https://www.anthropic.com/) (code-rendered animation, explainers, product films, 3D, games, and more). This page also points to **newer related lists, skills, and tools** found after the initial merge.
+**A discovery hub** that aggregates and deduplicates four community lists of videos people made with [Claude Opus 5.5](https://www.anthropic.com/) (code-rendered animation, explainers, product films, 3D, games, and more). This page also points to **newer related lists, skills, and tools** found after the initial merge.
 
 > Not affiliated with Anthropic. Original videos and prompts belong to their creators. This repo **summarizes and links out**—it does not republish long prompt transcripts or copyrighted footage.
 
@@ -180,29 +180,6 @@ LICENSE
 - **This hub’s original text and deduped index:** [CC BY 4.0](LICENSE) (attribution appreciated: link back here and to the four sources).
 - **Videos, music, prompts, and posts:** remain with their creators / platforms. Do not treat this repo as a rights clearance.
 - **Source-repo annotations:** follow each source’s own license (athemeroy is CC BY 4.0; check the others before reuse).
-
-## 中文 / Chinese
-
-**Opus 5.5 视频聚合站**：把四个社区仓库里的案例与提示词**去重汇总**，方便中英读者发现作品并回链到原帖/原仓库。2026-10-13 起额外收录一批**相关列表 / Skill / 工具**链接（尚未并入下方 846 条去重表）。
-
-| 指标 | 数量 | 时间 |
-|---|---:|---|
-| 去重后唯一条目（四源合并） | **846** | 2026-09-28 |
-| 有原帖链接 | 834 | 2026-09-28 |
-| 标有公开提示词 | 430 | 2026-09-28 |
-| 出现在 2 个及以上源仓库 | 61 | 2026-09-28 |
-| 下方相关仓库链接 | **45** | **2026-10-13** |
-
-**四个来源（请给他们点星；★ 与规模为 2026-10-13 刷新）：**
-
-1. [athemeroy/awesome-claude-5-5-videos](https://github.com/athemeroy/awesome-claude-5-5-videos)（原名 `awesome-opus-5-5-videos`）— 研究型语料、制作路径与证据帧（现约 424 帖 / 合并时 168）
-2. [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts) — 可复制提示词与上手指南（54 案例 + 18 提示词）
-3. [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — 最大提示词库（现约 **853**）+ Skillry 复刻
-4. [chuspeeism/awesome-opus-5-5-videos](https://github.com/chuspeeism/awesome-opus-5-5-videos) — 中文分类图鉴，README 内可播放（300）
-
-**值得一看的新列表 / Skill（详见英文 Related 表格）：** [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)、[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)、[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)（含 motion-showreel）、[feitangyuan/onetake](https://github.com/feitangyuan/onetake)、[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)、[ismoshushi/awesome-opus-video-skills](https://github.com/ismoshushi/awesome-opus-video-skills)、[joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) 等；此前已收录的 lemo-opuscar / mg-styles-15 / PDoomVideo 等仍在表中。
-
-**本站不粘贴长提示词全文或视频字幕**；请在 [`prompts.md`](prompts.md) 看短摘要并跳转到源文件。分类浏览见 [`by-category.md`](by-category.md)。
 
 ---
 

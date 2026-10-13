@@ -54,30 +54,61 @@ Raw per-source counts **at merge**: athemeroy 168 + joeseesun 54(+18 prompts) + 
 
 ## Related lists, skills & tools (2026-10-13)
 
-Linked from the README for discovery; **not** part of the 846-item dedupe.
+Linked from the README for discovery; **not** part of the 846-item dedupe. Count linked below: **45**. Second pass same day added X-shared motion stacks + teammate repos.
 
 ### Lists
 
 - [zhuyansen/awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video) — 1496 high-view works; 166★
 - [opusvideo/awesome-claude-video](https://github.com/opusvideo/awesome-claude-video) — curated + implementation guides; 196★
+- [frankxai/awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills) — motion agent-skills meta-list; 55★
 - [xianyu110/awesome-claude-opus-5.5](https://github.com/xianyu110/awesome-claude-opus-5.5) — 292 selected / 1019 full list; 45★
 - [LeaddeOpenLab/awesome-opus-5-5-video-prompts](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) — 601 prompts; 27★
 - [Li-Evan/awesome-opus-5.5-video-prompts](https://github.com/Li-Evan/awesome-opus-5.5-video-prompts) — 334 verbatim prompts; 14★
 - [HiAPIAI/awesome-opus-5-5-video-styles](https://github.com/HiAPIAI/awesome-opus-5-5-video-styles) — 425 prompts × 12 styles; 13★
+- [ismoshushi/awesome-opus-video-skills](https://github.com/ismoshushi/awesome-opus-video-skills) — ~110 installable video skills index; 12★
 - [X-RayLuan/awesome-opus-5-5-video-prompts](https://github.com/X-RayLuan/awesome-opus-5-5-video-prompts) — 83 demos; 8★
 
-### Skills / plugins / tools
+### Skills / plugins
 
+- [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) — motion-showreel (+ more); 12859★
+- [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) — Remotion shotcraft; 11651★
+- [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) — 花叔 art motion; 3760★
+- [feitangyuan/onetake](https://github.com/feitangyuan/onetake) — continuous-camera films; 2254★
+- [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) — motion principles for agents; 2156★
 - [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 43 film styles; 2127★
+- [nateherkai/hyperframes-student-kit](https://github.com/nateherkai/hyperframes-student-kit) — reel/Shorts edit kit; 1368★
+- [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) — hand-painted cartoon base; 1088★
 - [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) — 15 motion styles; 748★
+- [Barty-Bart/motion-graphics](https://github.com/Barty-Bart/motion-graphics) — MG / B-roll skills; 643★
+- [cth9191/animate](https://github.com/cth9191/animate) — procedural canvas films; 618★
 - [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) — ~180 agent video skills; 589★
+- [howseen-ai/claude-motion-design](https://github.com/howseen-ai/claude-motion-design) — HTML+Playwright+ffmpeg; 492★
+- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) — Remotion edit skill; 407★
+- [shadcn-labs/snapcn](https://github.com/shadcn-labs/snapcn) — Remotion component registry; 384★
+- [whaleyxbt/claude-motion](https://github.com/whaleyxbt/claude-motion) — motion toolkit; 378★
+- [joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) — 乔木 cut / director skill; 374★
 - [adunext/adu-motion-video](https://github.com/adunext/adu-motion-video) — CN motion/口播 Skill; 270★
-- [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) — product launch skill; 206★
+- [charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills) — 13 launch MG skills; 251★
+- [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) — product launch skill; 207★
 - [tuzhechen2005/opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) — painted + kinetic skills; 166★
 - [makevoid/motion-graphics-music-video-skill](https://github.com/makevoid/motion-graphics-music-video-skill) — music→MG plugin; 151★
+- [Sunwood-ai-labs/hyperframes-motion-reel-skill](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) — HyperFrames showreel; 124★
+- [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) — beat-synced HyperFrames; 119★
+- [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) — fundamentals pack; 117★
 - [Kianzzz/xilo-opus-video](https://github.com/Kianzzz/xilo-opus-video) — plan→render skill; 74★
+- [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-animations) — brief→JS MP4; 21★
+- [openHacking/promotion](https://github.com/openHacking/promotion) — product promo skill; 0★
+- [danushkastanley/broadcast-launch-film](https://github.com/danushkastanley/broadcast-launch-film) — HyperFrames broadcast launch; 0★
+
+### Demos / tools / engines
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — HTML→video agent stack; 62208★
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) — official GSAP agent skills; 16308★
+- [remotion-dev/skills](https://github.com/remotion-dev/skills) — official Remotion agent skills; 5107★
 - [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) — P(doom) MV source; 2071★
 - [diggerhq/shipvideo](https://github.com/diggerhq/shipvideo) — URL/prompt→MP4 tool; 343★
+- [agharsallah/opus-video](https://github.com/agharsallah/opus-video) — Sketchbook JS short; 41★
+- [samuelstroschein/opus-video-generator](https://github.com/samuelstroschein/opus-video-generator) — npx chat→film tool; 2★
 
 ## Attribution / 署名
 
@@ -85,4 +116,4 @@ Linked from the README for discovery; **not** part of the 846-item dedupe.
 - Curated annotations belong to the respective source repositories and their licenses.
 - This hub’s original English/Chinese writing and the deduped index are offered for discovery; link out rather than republishing long prompt bodies or transcripts.
 
-Deduped snapshot: 2026-09-28. Related-links + source stats refresh: 2026-10-13 (Asia/Singapore).
+Deduped snapshot: 2026-09-28. Related-links + source stats refresh: 2026-10-13 (Asia/Singapore); X/teammate Related pass same day.

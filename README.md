@@ -14,7 +14,7 @@
 | With original post URL | 834 | 2026-09-28 |
 | Flagged with a public prompt | 430 | 2026-09-28 |
 | Appearing in 2+ source repos | 61 | 2026-09-28 |
-| Related lists / skills / tools linked below | 14 | **2026-10-13** |
+| Related lists / skills / tools linked below | **45** | **2026-10-13** |
 
 The deduped tables in [`by-category.md`](by-category.md) and [`data/`](data/) are still the **2026-09-28** merge. Primary sources (especially yihui-dev and athemeroy) have grown since then; re-merge is tracked separately. Star counts and “indexed” figures in the source table were refreshed on 2026-10-13.
 
@@ -99,9 +99,9 @@ These posts showed up in multiple curated lists (good signal they’re widely re
 - **yihui-dev** — scale (853 prompts as of 2026-10-13) and side-by-side remakes on Skillry. Best for *browsing & remixing*.
 - **chuspeeism** — Chinese categorization + GitHub-hosted playable embeds. Best for *CN readers / in-browser watch*.
 
-## Related lists, skills & tools (added 2026-10-13)
+## Related lists, skills & tools (updated 2026-10-13)
 
-Not yet folded into the 846-item dedupe. Star counts as of 2026-10-13 (Asia/Singapore). Descriptions paraphrased from each project’s own README.
+Not yet folded into the 846-item dedupe. Star counts as of 2026-10-13 (Asia/Singapore). Descriptions paraphrased from each project’s own README. New rows this pass came from X shares + teammate finds.
 
 ### More community lists
 
@@ -109,31 +109,59 @@ Not yet folded into the 846-item dedupe. Star counts as of 2026-10-13 (Asia/Sing
 |---|---:|---|
 | [zhuyansen/awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video) | 166 | **1496** high-view works (Opus/Sonnet/Haiku/Fable); 381 with a prompt; EN/ZH + [online browser](https://jasonzhu.ai/en/prompts/claude-opus-5-5) |
 | [opusvideo/awesome-claude-video](https://github.com/opusvideo/awesome-claude-video) | 196 | Curated demos with posts, prompts, workflows; 59 cases in `cases.json`; implementation guides |
+| [frankxai/awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills) | 55 | Meta-list of GSAP / Motion / Remotion / Lottie / Rive agent skills |
 | [xianyu110/awesome-claude-opus-5.5](https://github.com/xianyu110/awesome-claude-opus-5.5) | 45 | **292** hand-picked from **1019** X posts; [Skilloop](https://skilloop.dev/zh/ai-video/opus-5-5) gallery |
 | [LeaddeOpenLab/awesome-opus-5-5-video-prompts](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) | 27 | **601** prompts by use case; previews + [site](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/) |
 | [Li-Evan/awesome-opus-5.5-video-prompts](https://github.com/Li-Evan/awesome-opus-5.5-video-prompts) | 14 | **334** verbatim creator prompts; EN/ZH; CC-BY-4.0 |
 | [HiAPIAI/awesome-opus-5-5-video-styles](https://github.com/HiAPIAI/awesome-opus-5-5-video-styles) | 13 | **425** prompts sorted into **12** visual styles + style recipes; CC-BY-4.0 |
+| [ismoshushi/awesome-opus-video-skills](https://github.com/ismoshushi/awesome-opus-video-skills) | 12 | Index of **~110** installable open video Agent Skills (code-render focus); EN/ZH |
 | [X-RayLuan/awesome-opus-5-5-video-prompts](https://github.com/X-RayLuan/awesome-opus-5-5-video-prompts) | 8 | **83** demos with verbatim prompts (EN+ZH); MIT |
 
 ### Skills & plugins (make video with Claude Code / agents)
 
 | Repo | ★ | Notes |
 |---|---:|---|
+| [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12859 | Skill pack incl. **motion-showreel** (code→MP4 showreels / product films / kinetic type) |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 11651 | Remotion cinematic product videos: **152** shot recipes + **209** motion previews |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3760 | 花叔 art-motion skill: **35** art styles + **9** narration grammars; code-driven animation |
+| [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | 2254 | Continuous-camera product/launch films (no hard cuts); continuity oracle |
+| [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) | 2156 | Universal motion principles for agents (timing, easing, Disney 12) |
 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 2127 | Claude Code skill: **43** film styles, each with a code-only demo film (incl. OPUSCAR 98); MIT |
+| [nateherkai/hyperframes-student-kit](https://github.com/nateherkai/hyperframes-student-kit) | 1368 | **14** skills to edit reels/Shorts with Claude Code/Codex + **406** MG reference cards |
+| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 1088 | Hand-painted cartoon starter: p5.js + Clawd + **31** acted emotions |
 | [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) | 748 | **15** motion-design styles: watch films, copy prompts, read full source; MIT |
+| [Barty-Bart/motion-graphics](https://github.com/Barty-Bart/motion-graphics) | 643 | Motion-graphics / B-roll skills for Claude Code and Codex |
+| [cth9191/animate](https://github.com/cth9191/animate) | 618 | Procedural single-file canvas films; **7** built-in styles + beat-mapped music |
 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 589 | Meta-list of **~180** open video skills/toolkits for coding agents, security-graded; EN/ZH |
+| [howseen-ai/claude-motion-design](https://github.com/howseen-ai/claude-motion-design) | 492 | Pure-code motion (HTML + Playwright + ffmpeg); beat-synced; no Remotion license |
+| [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) | 407 | Teaches Claude to edit Remotion MG: captions, B-roll, sound from one prompt |
+| [shadcn-labs/snapcn](https://github.com/shadcn-labs/snapcn) | 384 | shadcn registry of **100+** Remotion components for product demo videos |
+| [whaleyxbt/claude-motion](https://github.com/whaleyxbt/claude-motion) | 378 | Motion toolkit: direction, frame self-review, sound-in-code |
+| [joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) | 374 | 乔木 cut skill: sourcing, bilingual captions, brand packing, reproducible render |
 | [adunext/adu-motion-video](https://github.com/adunext/adu-motion-video) | 270 | CN motion/口播 templates + Skill for Codex / Claude Code; MIT |
-| [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) | 206 | Claude Code skill for continuous-shot product launch reels (60 fps motion blur); MIT |
+| [charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills) | 251 | **13** Claude Code skills for launch-grade MG (code-only frames) |
+| [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) | 207 | Claude Code skill for continuous-shot product launch reels (60 fps); MIT |
 | [tuzhechen2005/opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) | 166 | Skills for painted animation + kinetic-typography reels (code-only frames/music) |
 | [makevoid/motion-graphics-music-video-skill](https://github.com/makevoid/motion-graphics-music-video-skill) | 151 | Plugin: motion-graphics video from a music track + prompt; MIT |
+| [Sunwood-ai-labs/hyperframes-motion-reel-skill](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) | 124 | Beat-synced HyperFrames showreels (120 BPM / 60 FPS → MP4) |
+| [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 119 | HyperFrames + GSAP beat-synced 1080p with VO, karaoke captions, SFX; MIT |
+| [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) | 117 | Fundamentals pack: timing, type, color, Remotion/AE workflows, logos |
 | [Kianzzz/xilo-opus-video](https://github.com/Kianzzz/xilo-opus-video) | 74 | Skill: propose 3 plans → preview → frame render (Canvas/WebGL/Three.js/Remotion/HyperFrames); MIT |
+| [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-animations) | 21 | Brief → sound → director’s treatment → frame-exact JS MP4; Claude Code skill |
+| [openHacking/promotion](https://github.com/openHacking/promotion) | 0 | Product launch / software-demo / workflow promo skill (editable code + synced sound) |
+| [danushkastanley/broadcast-launch-film](https://github.com/danushkastanley/broadcast-launch-film) | 0 | HyperFrames skill: broadcast-title launch film cut hard to music (no VO) |
 
 ### Notable demos & tools
 
 | Repo | ★ | Notes |
 |---|---:|---|
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 62208 | Write HTML → render video; agent-first rendering stack |
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | 16308 | Official GSAP skills for coding agents (timelines, React cleanup) |
+| [remotion-dev/skills](https://github.com/remotion-dev/skills) | 5107 | Official Remotion agent skills for Claude Code / Codex / Cursor |
 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 2071 | Source for the viral *I’m Upping My P(doom)* Claude Opus 5.5 music video |
 | [diggerhq/shipvideo](https://github.com/diggerhq/shipvideo) | 343 | Paste a URL or prompt → Opus 5.5 writes HTML → OpenComputer agent renders MP4 ([launchvideo.io](https://launchvideo.io)) |
+| [agharsallah/opus-video](https://github.com/agharsallah/opus-video) | 41 | *A Day in the Sketchbook* — full JS watercolour short (extract → audio → MP4) |
+| [samuelstroschein/opus-video-generator](https://github.com/samuelstroschein/opus-video-generator) | 2 | `npx opus-video-generator` — chat→storyboard→code film on your Claude plan |
 
 ## Files in this hub
 
@@ -163,7 +191,7 @@ LICENSE
 | 有原帖链接 | 834 | 2026-09-28 |
 | 标有公开提示词 | 430 | 2026-09-28 |
 | 出现在 2 个及以上源仓库 | 61 | 2026-09-28 |
-| 下方相关仓库链接 | 14 | **2026-10-13** |
+| 下方相关仓库链接 | **45** | **2026-10-13** |
 
 **四个来源（请给他们点星；★ 与规模为 2026-10-13 刷新）：**
 
@@ -172,10 +200,10 @@ LICENSE
 3. [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — 最大提示词库（现约 **853**）+ Skillry 复刻
 4. [chuspeeism/awesome-opus-5-5-videos](https://github.com/chuspeeism/awesome-opus-5-5-videos) — 中文分类图鉴，README 内可播放（300）
 
-**值得一看的新列表 / Skill（详见英文 Related 表格）：** [zhuyansen/awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video)、[lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)、[Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15)、[zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)、[diggerhq/shipvideo](https://github.com/diggerhq/shipvideo)、[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) 等。
+**值得一看的新列表 / Skill（详见英文 Related 表格）：** [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)、[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)、[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)（含 motion-showreel）、[feitangyuan/onetake](https://github.com/feitangyuan/onetake)、[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)、[ismoshushi/awesome-opus-video-skills](https://github.com/ismoshushi/awesome-opus-video-skills)、[joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) 等；此前已收录的 lemo-opuscar / mg-styles-15 / PDoomVideo 等仍在表中。
 
 **本站不粘贴长提示词全文或视频字幕**；请在 [`prompts.md`](prompts.md) 看短摘要并跳转到源文件。分类浏览见 [`by-category.md`](by-category.md)。
 
 ---
 
-Maintained as a discovery index. Corrections and removals: open an issue. Deduped snapshot built 2026-09-28; related-links pass 2026-10-13 (Asia/Singapore).
+Maintained as a discovery index. Corrections and removals: open an issue. Deduped snapshot built 2026-09-28; related-links passes 2026-10-13 (Asia/Singapore), including an X + teammate pass the same day.
